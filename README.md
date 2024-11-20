@@ -1,4 +1,4 @@
-# Gamma Travels Bus Ticket Booking Application
+# GammaTravels
 
 ## Overview
 This is a **Bus Ticket Booking Application** developed to facilitate online ticket booking for **Gamma Travels** bus services. The application was developed during the pandemic to allow users to book tickets conveniently and maintain social distancing.
@@ -40,8 +40,8 @@ Key features include:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/rakibul58/BusTicketRegistrationSystem.git
-   cd BusTicketRegistrationSystem
+   git clone https://github.com/rakibul58/GammaTravels.git
+   cd GammaTravels
    ```
 
 2. **Install Qt Framework**:
